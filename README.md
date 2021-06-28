@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="GamePlay" src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/logo.png"/>
+    <img alt="GamePlay" src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/logo.png" />
 </h1>
 
 <p align="center">
-    <img src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/gamePlaypost.png"/>
+    <img src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/gamePlaypost.png" width="600" height="600"/> <br>
      <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=FF007F&labelColor=000">
 </p>
 
