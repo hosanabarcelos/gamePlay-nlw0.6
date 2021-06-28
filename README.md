@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GamePlay" src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/logo.png" />
+    <img alt="GamePlay" src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/logo.png" width="150" height="100" />
 </h1>
 
 <p align="center">
