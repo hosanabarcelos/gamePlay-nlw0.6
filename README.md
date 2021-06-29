@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/GPpost.png" width="600" height="800"/> <br>
+    <img src="https://github.com/hosanabarcelos/gamePlay-nlw0.6/blob/main/GPpost.png" /> <br>
      <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=FF007F&labelColor=000">
 </p>
 
