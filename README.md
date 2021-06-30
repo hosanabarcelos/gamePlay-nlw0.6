@@ -7,7 +7,7 @@
      <img alt="Made by Hosana Barcelos" src="https://img.shields.io/badge/made%20by- HOSANA BARCELOS -%15C3D6?style=flat-square&color=FF007F&labelColor=000">
 </p>
 
-**GamePlay** é uma aplicação desenvolvida durante a Next Level Week #06 da [Rocketseat](https://rocketseat.com.br/) para games em conjunto, deixando suas partidas organizadas.
+**GamePlay** é uma aplicação desenvolvida durante a Next Level Week #06 da [Rocketseat](https://rocketseat.com.br/), para games em conjunto, deixando suas partidas organizadas.
 
 ## Protótipo do Projeto
 
